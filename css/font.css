@@ -1,0 +1,5 @@
+@charset "utf-8";
+@font-face {
+    font-family:"hel";
+    src:local('★'), url(../font/HelveticaLTStd-Comp.otf) format('woff2'), url('../font/NanumSqaureB.woff') format('woff');
+}
